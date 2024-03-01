@@ -24,7 +24,7 @@ Here are the changes I made (they are numbered in the order I made the changes i
 
 #### How to Run: 
 
-You should be able to run the index.html file in a browser to 'use' the ATM.
+You should be able to run the index.html file on a local 8080 server. 
  
 
 #### Support:
